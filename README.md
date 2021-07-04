@@ -38,3 +38,6 @@ Read specific file from specific folder
                 Configuration = configuration.UseSecret("/my/secret/folder" ,"mysecretname");
              }
 ```
+
+
+https://www.nuget.org/packages/Docker.Swarm.Secrets/1.0.0#
